@@ -3,7 +3,7 @@
 ### Hie there [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">][wavegif],  I'm Tino - aka [Tech Tino][website]
 
 [![Website](https://img.shields.io/website?label=TechTinoe&style=for-the-badge&url=https%3A%2F%2Ftechtinoe.vercel.app)](https://techtinoe.vercel.app)
-![Twitter URL](https://img.shields.io/twitter/url?color=%23E4405F&label=FOLLOW%20%40%20TECH_TINOE&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Ffollow%2Ftech_tinoe%2F)
+![Twitter Follow](https://img.shields.io/twitter/follow/tech_tinoe?color=%231DA1F2&logo=twitter&style=for-the-badge)
 
 ## I'm a Computer Science Student, Front-End Web Developer!
 - ⚒ I'm currently working on [teaching web development basics][website]!
