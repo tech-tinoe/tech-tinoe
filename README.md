@@ -1,19 +1,17 @@
 [<img src="https://github.com/tech-tinoe/tech-tinoe/blob/main/images/header.png" height="240px" width="100%" style="max-width:100%"/>][banner]
 
-### Hie there [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">][wavegif],  I'm Tino - aka [Tech Tino][website]
+### Hie there [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">][wavegif],  I'm Tino - aka [Tech_Tinoe][twitter]
 
-[![Website](https://img.shields.io/website?label=TechTinoe&style=for-the-badge&url=https%3A%2F%2Ftechtinoe.vercel.app)](https://techtinoe.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tech_tinoe?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftech-tinoe&screen_name=tech_tinoe)
 
 ## I'm a Computer Science Student, Front-End Web Developer!
-- ⚒ I'm currently working on [teaching web development basics][website]!
+- ⚒ I'm currently working on [teaching web development basics][twitter]!
 - 📱 I'm currently learning Android App Development
 - 👯 I'm looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source Projects
 - 😂 Fun fact: I'm into tech and [productivity](https://ticktick.com/r?c=7l1my15l)
 
 ### Connect with me:
-[<img align="left" alt="techtinoe.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="techtino.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"/>][whatsapp]
 [<img align="left" alt="techtino.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 [<img align="left" alt="techtino.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
