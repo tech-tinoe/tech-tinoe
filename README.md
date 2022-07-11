@@ -2,7 +2,7 @@
 
 ### Hie there [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">][wavegif],  I'm Tino - aka [Tech_Tinoe][twitter]
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/tech_tinoe?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftech-tinoe&screen_name=tech_tinoe)
+[![Twitter Follow](https://img.shields.io/twitter/follow/techtinoe?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftechtinoe&screen_name=tinomazorodze)
 
 ## I'm a Computer Science Student, Front-End Web Developer!
 - ⚒ I'm currently working on [teaching web development basics][twitter]!
@@ -44,8 +44,8 @@
 <!-- AdobeXD Icon -->
 
 [website]: https://techtinoe.vercel.app
-[twitter]: https://twitter.com/tech_tinoe
-[instagram]: https://instagram.com/tech_tinoe
+[twitter]: https://twitter.com/techtinoe
+[instagram]: https://instagram.com/techtinoe
 [whatsapp]: https://wa.me/+263780105064
 [banner]: https://github.com/tech-tinoe/tech-tinoe/blob/main/images/header.png
 [wavegif]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
