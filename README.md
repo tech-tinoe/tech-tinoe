@@ -2,13 +2,13 @@
 
 ### Hie there [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">][wavegif],  I'm Tino
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/tinomazorodze_?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftinomazorodze&screen_name=tinomazorodze)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MazorodzeHQ?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftinomazorodze&screen_name=tinomazorodze)
 
-## I'm a Computer Science Student, Front-End Web Developer!
+## I'm a Software Architect, Tech Enthusiast!
 - ⚒ I'm currently working on [teaching web development basics][twitter]!
 - 📱 I'm currently learning Android App Development
 - 👯 I'm looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source Projects
+- 🥅 2023 Goals: Contribute more to Open Source Projects
 - 😂 Fun fact: I'm into tech and [productivity](https://ticktick.com/r?c=7l1my15l)
 
 ### Connect with me:
@@ -43,11 +43,11 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode-icon]
 <!-- AdobeXD Icon -->
 
-[website]: https://techtinoe.vercel.app
-[twitter]: https://twitter.com/tinomazorodze_
-[instagram]: https://instagram.com/tinomazorodze_
+[website]: https://tinomazorodze
+[twitter]: https://twitter.com/MazorodzeHQ
+[instagram]: https://instagram.com/mazorodze.hq
 [whatsapp]: https://wa.me/+263780105064
-[banner]: https://github.com/tech-tinoe/tech-tinoe/blob/main/images/header.png
+[banner]: https://github.com/tinomazorodze/tinomazorodze/blob/main/images/header.png
 [wavegif]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 
 <!-- Icons -->
