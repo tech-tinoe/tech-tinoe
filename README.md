@@ -2,7 +2,7 @@
 
 ### Hie there [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">][wavegif],  I'm Tino
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MazorodzeHQ?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftinomazorodze&screen_name=tinomazorodze)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MazorodzeHQ?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftinomazorodze&screen_name=MazorodzeHQ)
 
 ## I'm a Software Architect, Tech Enthusiast!
 - ⚒ I'm currently working on [teaching web development basics][twitter]!
